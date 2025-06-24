@@ -1,6 +1,6 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
+    'Qual é um dos benefícios da conexão entre o campo e a cidade?',
     'O Python é uma linguagem de programação'
 )
 
