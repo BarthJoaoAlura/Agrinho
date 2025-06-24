@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Campo-Cidade',
     'Qual é um dos benefícios da conexão entre o campo e a cidade?',
     'Um dos principais benefícios é o abastecimento mútuo: o campo fornece alimentos e matérias-primas,enquanto a cidade oferece tecnologia, serviços e infraestrutura. Essa troca fortalece a economia e melhora a qualidade de vida.'
 )
